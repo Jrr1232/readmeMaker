@@ -4,7 +4,7 @@
 
 
 # Professional README Generator
-![image](https://github.com/Jrr1232/challenge-week-07/assets/71472570/75fb4b67-0f7f-4e1a-b18a-cecc9f1fb27b)
+
 
 
 ## 🤔 Introduction
@@ -65,7 +65,9 @@ inquirer
 
 
 ## Usage
-Please Use accordingly.
+To run cd into challenge-week-07 directory and run node index.js
+![image](https://github.com/Jrr1232/challenge-week-07/assets/71472570/75fb4b67-0f7f-4e1a-b18a-cecc9f1fb27b)
+
 
 
 
