@@ -58,10 +58,7 @@ ${renderLicenseBadge(data.license)}
 
 ## 🤔 Introduction
 
-### ${data.description}
-${data.reason}
-${data.problems}
-${data.learned}
+### ${data.description}${data.reason}${data.problems}${data.learned}
 
 
 
@@ -86,7 +83,9 @@ ${data.learned}
 
 
 ## Installation 
+
 ${data.installation}
+
 
 
 
